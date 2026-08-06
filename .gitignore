@@ -1,0 +1,16 @@
+# 운영체제
+.DS_Store
+
+# 에디터
+.vscode/
+.idea/
+.obsidian/
+
+# 환경변수 — 공개 저장소이므로 절대 커밋 금지
+.env
+.env.*
+!.env.example
+
+# 임시 파일
+*.log
+*.tmp
