@@ -1,3 +1,5 @@
+![SKALA AX 학습 기록](assets/cover-d.png)
+
 # SKALA AX 학습 기록
 
 SKALA 교육 과정에서 학습한 프론트엔드, 백엔드, 데이터, AI·LLM 내용을
