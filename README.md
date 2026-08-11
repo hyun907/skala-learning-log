@@ -3,7 +3,14 @@
 SKALA 교육 과정에서 학습한 프론트엔드, 백엔드, 데이터, AI·LLM 내용을
 직접 실습하고 이해한 기준으로 정리한 저장소입니다.
 
-## 학습 분야
+## 저장소 구조
+
+```
+lecture/    수업에서 배운 내용을 분야별로 정리
+projects/   수업 밖에서 직접 만든 프로젝트 기록
+```
+
+## 수업 (lecture)
 
 ### AI·LLM
 
@@ -11,7 +18,9 @@ SKALA 교육 과정에서 학습한 프론트엔드, 백엔드, 데이터, AI·L
 
 ### 프론트엔드
 
-*(아직 없음)*
+- [JavaScript 모듈: 파일을 나눠도 스코프는 나뉘지 않는다](lecture/frontend/javascript-modules.md)
+- [JavaScript 비동기 실행 모델: 데이터가 먼저 도착해도 끼어들 수 없다](lecture/frontend/javascript-async-model.md)
+- [브라우저가 제공하는 API: fetch는 404에 실패하지 않는다](lecture/frontend/browser-apis.md)
 
 ### 백엔드
 
@@ -29,7 +38,18 @@ SKALA 교육 과정에서 학습한 프론트엔드, 백엔드, 데이터, AI·L
 
 *(아직 없음)*
 
-## 프로젝트
+### GitHub·협업
+
+- [Git 기본 흐름: Staging Area는 저장이 아니다](lecture/github-collaboration/git-basics.md)
+- [Git 브랜치 전략: fast-forward는 흔적을 남기지 않는다](lecture/github-collaboration/git-branch-strategy.md)
+- [Git 되돌리기: restore, reset, revert, stash](lecture/github-collaboration/git-recovery.md)
+- [.gitignore와 비밀정보 관리](lecture/github-collaboration/gitignore-and-secrets.md)
+
+### DevOps
+
+- [macOS 개발 환경: source가 왜 필요한가](lecture/devops/macos-dev-environment.md)
+
+## 프로젝트 (projects)
 
 *(아직 없음)*
 
