@@ -34,7 +34,11 @@ projects/   수업 밖에서 직접 만든 프로젝트 기록
 
 ### 데이터베이스
 
-*(아직 없음)*
+- [실행계획 읽기: 실행시간만 보면 반대로 판단한다](lecture/database/explain-analyze.md)
+- [인덱스 설계: 만들었는데 안 쓰이는 게 정상일 때가 있다](lecture/database/index-design.md)
+- [JOIN 알고리즘: INNER/LEFT는 의미고, Hash/Nested Loop는 실행이다](lecture/database/join-algorithms.md)
+- [윈도우 함수: 상관 서브쿼리를 바꿨더니 버퍼가 140분의 1이 됐다](lecture/database/window-functions.md)
+- [SQL의 NULL: 에러가 안 나는 게 문제다](lecture/database/null-in-sql.md)
 
 ### Python
 
