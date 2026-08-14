@@ -55,6 +55,7 @@ projects/   수업 밖에서 직접 만든 프로젝트 기록
 
 - [macOS 개발 환경: source가 왜 필요한가](lecture/devops/macos-dev-environment.md)
 - [Vite 환경변수와 빌드 모드: .env는 값을 숨기지 않는다](lecture/devops/vite-env-and-build-modes.md)
+- [GitHub Pages에 SPA 배포하기: 화면이 정상이어도 404가 온다](lecture/devops/spa-on-github-pages.md)
 
 ## 프로젝트 (projects)
 
