@@ -23,6 +23,7 @@ projects/   수업 밖에서 직접 만든 프로젝트 기록
 - [JavaScript 모듈: 파일을 나눠도 스코프는 나뉘지 않는다](lecture/frontend/javascript-modules.md)
 - [JavaScript 비동기 실행 모델: 데이터가 먼저 도착해도 끼어들 수 없다](lecture/frontend/javascript-async-model.md)
 - [브라우저가 제공하는 API: fetch는 404에 실패하지 않는다](lecture/frontend/browser-apis.md)
+- [computed와 watch: 값을 만들 것인가, 일을 시킬 것인가](lecture/frontend/computed-and-watch.md)
 
 ### 백엔드
 
